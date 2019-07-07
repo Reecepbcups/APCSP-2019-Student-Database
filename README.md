@@ -3,3 +3,4 @@ Permission tiered Database with stored passwords (AP Computer Science Principals
 
 # Required module:
 pip3 install tkinter
+Run: Main.py
